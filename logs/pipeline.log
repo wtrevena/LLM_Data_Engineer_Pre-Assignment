@@ -1,0 +1,12 @@
+2024-10-30 10:49:45,372 - data_ingestion - INFO - Data ingested into table raw_reviews.
+2024-10-30 10:49:51,657 - data_preprocessing - INFO - Data preprocessing completed and stored in 'cleaned_reviews' table.
+2024-10-30 11:01:32,399 - embeddings_generation - INFO - Processed batch ending at offset 5
+2024-10-30 11:01:32,401 - embeddings_generation - INFO - Embeddings generation completed.
+2024-10-30 11:07:52,676 - embeddings_generation - INFO - Processed batch ending at offset 5
+2024-10-30 11:07:52,679 - embeddings_generation - INFO - Embeddings generation completed.
+2024-10-30 11:11:08,400 - embeddings_generation - INFO - Processed batch ending at offset 5
+2024-10-30 11:11:08,403 - embeddings_generation - INFO - Embeddings generation completed.
+2024-10-30 11:43:05,447 - api_server - INFO - Processed query for text: Great battery life and camera quality
+2024-10-30 11:43:31,032 - api_server - INFO - Processed query for text: Looking for a product with excellent build quality.
+2024-10-30 12:06:49,004 - api_server - INFO - Processed query for text: Great battery life and camera quality
+2024-10-30 12:06:57,094 - api_server - INFO - Processed query for text: Looking for a product with excellent build quality.

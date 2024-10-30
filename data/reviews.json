@@ -1,0 +1,5 @@
+{"review_id": "1", "product_id": "P1001", "review_text": "This product exceeded my expectations. The build quality is excellent.", "rating": 5, "timestamp": 1617558400}
+{"review_id": "2", "product_id": "P1002", "review_text": "Not satisfied with the performance. It stopped working after a week.", "rating": 2, "timestamp": 1617644800}
+{"review_id": "3", "product_id": "P1003", "review_text": "Average quality, but good value for the price.", "rating": 3, "timestamp": 1617731200}
+{"review_id": "4", "product_id": "P1004", "review_text": "Excellent customer service and fast shipping!", "rating": 5, "timestamp": 1617817600}
+{"review_id": "5", "product_id": "P1005", "review_text": "The product does not match the description.", "rating": 1, "timestamp": 1617904000}

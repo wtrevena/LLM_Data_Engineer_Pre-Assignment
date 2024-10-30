@@ -1,0 +1,8 @@
+setup.sh
+
+.env
+pgvector
+postgres_backup.sql
+
+__pycache__
+venv
